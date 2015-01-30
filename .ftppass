@@ -1,0 +1,11 @@
+{
+ "host": "exqmple.com",
+ "port": 21,
+ "user": "user1",
+ "target": "/html/tutorial-grunt",
+
+ "user1": {
+  "username": "",
+  "password": ""
+ }
+}
